@@ -1,0 +1,60 @@
+<div className="AndroidLarge1" style={{width: 360, height: 800, position: 'relative', background: 'white'}}>
+  <div className="Ellipse10" style={{width: 66, height: 66, left: 12, top: 113, position: 'absolute', background: 'white', borderRadius: 9999, border: '3px #A239AD solid'}} />
+  <div className="Ellipse11" style={{width: 66, height: 66, left: 98, top: 112, position: 'absolute', background: 'white', borderRadius: 9999, border: '3px #A239AD solid'}} />
+  <div className="Ellipse12" style={{width: 66, height: 66, left: 185, top: 112, position: 'absolute', background: 'white', borderRadius: 9999, border: '3px #A239AD solid'}} />
+  <div className="Ellipse13" style={{width: 66, height: 66, left: 274, top: 111, position: 'absolute', background: 'white', borderRadius: 9999, border: '3px #A239AD solid'}} />
+  <div className="Frame1" style={{width: 360, height: 104, left: 0, top: 0, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Rectangle4945" style={{width: 360, height: 104, background: 'white'}} />
+  </div>
+  <div className="Rectangle4947" style={{width: 360, height: 572, left: 0, top: 190, position: 'absolute', background: 'white', border: '1px #E7ECF2 solid'}} />
+  <div className="Rectangle4948" style={{width: 360, height: 38, left: 0, top: 762, position: 'absolute', background: 'white'}} />
+  <div className="Heart" style={{width: 24, height: 23, paddingTop: 2.87, paddingBottom: 2.65, paddingLeft: 1.55, paddingRight: 1.55, left: 271, top: 62, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Icon" style={{width: 20.90, height: 17.47, border: '1.60px #1E1E1E solid'}}></div>
+  </div>
+  <div className="StatusBarIphone" style={{width: 382, height: 43, left: -22, top: 0, position: 'absolute', background: 'white', justifyContent: 'center', alignItems: 'flex-start', gap: 108.87, display: 'inline-flex'}}>
+    <div className="Time" style={{height: 54, paddingTop: 18.34, paddingBottom: 13.66, justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+      <div className="Time" style={{textAlign: 'center', color: 'black', fontSize: 17, fontFamily: 'SF Pro', fontWeight: '590', lineHeight: 22, wordWrap: 'break-word'}}>9:41</div>
+    </div>
+    <div className="Levels" style={{width: 136.57, paddingTop: 23, paddingBottom: 18, paddingLeft: 28, paddingRight: 30.24, justifyContent: 'center', alignItems: 'flex-start', gap: 7.50, display: 'inline-flex'}}>
+      <div className="CellularConnection" style={{width: 19.20, height: 12.23, background: 'black'}}></div>
+      <div className="Wifi" style={{width: 17.14, height: 12.33, background: 'black'}}></div>
+      <div className="Battery" style={{width: 27.33, height: 13, position: 'relative'}}>
+        <div className="Border" style={{width: 25, height: 13, left: 0, top: 0, position: 'absolute', opacity: 0.35, borderRadius: 4.30, border: '1px black solid'}} />
+        <div className="Cap" style={{width: 1.33, height: 4.08, left: 26, top: 4.78, position: 'absolute', opacity: 0.40, background: 'black'}}></div>
+        <div className="Capacity" style={{width: 21, height: 9, left: 2, top: 2, position: 'absolute', background: 'black', borderRadius: 2.50}} />
+      </div>
+    </div>
+  </div>
+  <div className="MessageCircle" style={{width: 26, height: 26, padding: 3.25, left: 304, top: 61, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Icon" style={{width: 19.50, height: 19.50, border: '1.60px #1E1E1E solid'}}></div>
+  </div>
+  <img className="InstagramLogo" style={{width: 112, height: 30, left: 17, top: 61, position: 'absolute'}} src="https://via.placeholder.com/112x30" />
+  <img className="Rectangle4949" style={{width: 360, height: 360, left: 1, top: 265, position: 'absolute', background: 'linear-gradient(0deg, #E7ECF2 0%, #E7ECF2 100%)'}} src="https://via.placeholder.com/360x360" />
+  <img className="Ellipse5" style={{width: 39.48, height: 39.48, left: 15.55, top: 206.69, position: 'absolute', transform: 'rotate(2deg)', transformOrigin: '0 0', background: 'linear-gradient(0deg, #EBEBEB 0%, #EBEBEB 100%)', borderRadius: 9999}} src="https://via.placeholder.com/39x39" />
+  <div className="Group1" style={{width: 318, height: 60, left: 17, top: 115, position: 'absolute'}}>
+    <img className="Ellipse1" style={{width: 56, height: 59, left: 0, top: 1, position: 'absolute', background: 'linear-gradient(0deg, #D9D9D9 0%, #D9D9D9 100%)', borderRadius: 9999}} src="https://via.placeholder.com/56x59" />
+    <img className="Ellipse2" style={{width: 56, height: 59, left: 173, top: 1, position: 'absolute', background: 'linear-gradient(0deg, #D9D9D9 0%, #D9D9D9 100%)', borderRadius: 9999}} src="https://via.placeholder.com/56x59" />
+    <img className="Ellipse3" style={{width: 56, height: 59, left: 86, top: 1, position: 'absolute', background: 'linear-gradient(0deg, #D9D9D9 0%, #D9D9D9 100%)', borderRadius: 9999}} src="https://via.placeholder.com/56x59" />
+    <img className="Ellipse4" style={{width: 56, height: 59, left: 262, top: 0, position: 'absolute', background: 'linear-gradient(0deg, #D9D9D9 0%, #D9D9D9 100%)', borderRadius: 9999}} src="https://via.placeholder.com/56x59" />
+  </div>
+  <div className="NotMe" style={{left: 64, top: 212, position: 'absolute', color: 'black', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>_.not_me._</div>
+  <div className="SomewhereUnderTheBlueSky" style={{width: 227, height: 22, left: 64, top: 234, position: 'absolute', color: '#1F1F1F', fontSize: 11, fontFamily: 'Inter', fontWeight: '200', wordWrap: 'break-word'}}>Somewhere under the blue sky</div>
+  <img className="Favorite" style={{width: 28, height: 28, left: 17, top: 635, position: 'absolute'}} src="https://via.placeholder.com/28x28" />
+  <img className="SpeechBubble" style={{width: 27, height: 38, left: 62, top: 630, position: 'absolute'}} src="https://via.placeholder.com/27x38" />
+  <img className="InstagramReels" style={{width: 28, height: 28, left: 241, top: 767, position: 'absolute'}} src="https://via.placeholder.com/28x28" />
+  <img className="Shape" style={{width: 22.73, height: 19.75, left: 106, top: 639, position: 'absolute'}} src="https://via.placeholder.com/23x20" />
+  <img className="Bookmark" style={{width: 41, height: 31, left: 314, top: 633, position: 'absolute'}} src="https://via.placeholder.com/41x31" />
+  <div className="LikedByXszeeAndOthers" style={{width: 278, height: 28, left: 75, top: 689, position: 'absolute'}}><span style="color: 'black', fontSize: 14, fontFamily: 'Inter', fontWeight: '400', wordWrap: 'break-word'">Liked by .</span><span style="color: 'black', fontSize: 14, fontFamily: 'Inter', fontWeight: '600', wordWrap: 'break-word'">xszee. </span><span style="color: 'black', fontSize: 14, fontFamily: 'Inter', fontWeight: '400', wordWrap: 'break-word'">and </span><span style="color: 'black', fontSize: 14, fontFamily: 'Inter', fontWeight: '600', wordWrap: 'break-word'">others</span></div>
+  <img className="Ellipse8" style={{width: 24, height: 25, left: 38, top: 686, position: 'absolute', background: 'linear-gradient(0deg, #D9D9D9 0%, #D9D9D9 100%)', borderRadius: 9999, border: '1px #FFFEFE solid'}} src="https://via.placeholder.com/24x25" />
+  <img className="Ellipse7" style={{width: 24, height: 25, left: 21, top: 686, position: 'absolute', background: 'linear-gradient(0deg, #D9D9D9 0%, #D9D9D9 100%)', border: '1px #FFFCFC solid'}} src="https://via.placeholder.com/24x25" />
+  <div className="September4" style={{width: 90, height: 16, left: 24, top: 722, position: 'absolute', color: '#837F7F', fontSize: 12, fontFamily: 'Inter', fontWeight: '400', wordWrap: 'break-word'}}>September 4</div>
+  <img className="More" style={{width: 29, height: 50, left: 324, top: 196, position: 'absolute'}} src="https://via.placeholder.com/29x50" />
+  <img className="AddNew" style={{width: 28, height: 54, left: 164, top: 754, position: 'absolute'}} src="https://via.placeholder.com/28x54" />
+  <img className="Home" style={{width: 30, height: 28, left: 15, top: 767, position: 'absolute'}} src="https://via.placeholder.com/30x28" />
+  <img className="Search" style={{width: 29, height: 36, left: 92, top: 764, position: 'absolute'}} src="https://via.placeholder.com/29x36" />
+  <img className="Ellipse9" style={{width: 30, height: 30, left: 316, top: 767, position: 'absolute', background: 'linear-gradient(0deg, #D9D9D9 0%, #D9D9D9 100%)', borderRadius: 9999}} src="https://via.placeholder.com/30x30" />
+  <div className="Group2" style={{width: 22.37, height: 23.96, left: 58, top: 154.54, position: 'absolute'}}>
+    <div className="Ellipse14" style={{width: 22.37, height: 23.96, left: 0, top: 0, position: 'absolute', background: 'white', borderRadius: 9999}} />
+    <img className="Add" style={{width: 21.30, height: 21.30, left: 0.43, top: 1.28, position: 'absolute'}} src="https://via.placeholder.com/21x21" />
+  </div>
+</div>
